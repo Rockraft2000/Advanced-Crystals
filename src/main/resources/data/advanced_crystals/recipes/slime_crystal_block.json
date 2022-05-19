@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "advanced_crystals:slime_crystal_shard"
+    }
+  },
+  "result": {
+    "item": "advanced_crystals:slime_crystal_block"
+  }
+}

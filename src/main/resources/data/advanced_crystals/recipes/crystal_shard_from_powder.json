@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#*#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "advanced_crystals:crystal_powder"
+    },
+    "*": {
+      "item": "minecraft:prismarine_shard"
+    }
+  },
+  "result": {
+    "item": "advanced_crystals:crystal_shard"
+  }
+}

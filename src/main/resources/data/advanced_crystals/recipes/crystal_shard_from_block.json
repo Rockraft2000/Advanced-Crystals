@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "advanced_crystals:crystal_block"
+    }
+  ],
+  "result": {
+    "item": "advanced_crystals:crystal_shard",
+    "count": 4
+  }
+}

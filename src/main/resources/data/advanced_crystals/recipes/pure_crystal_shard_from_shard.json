@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#*#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "advanced_crystals:crystal_shard"
+    },
+    "*": {
+      "item": "minecraft:music_disc_11"
+    }
+  },
+  "result": {
+    "item": "advanced_crystals:pure_crystal"
+  }
+}

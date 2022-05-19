@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "advanced_crystals:crystal_ore",
+    "advanced_crystals:crystal_block",
+    "advanced_crystals:pure_crystal_block"
+  ]
+}

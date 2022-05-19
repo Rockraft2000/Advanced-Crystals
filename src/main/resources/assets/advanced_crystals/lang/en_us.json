@@ -1,7 +1,48 @@
 {
+  "item.advanced_crystals.crystal_powder": "Crystal Powder",
   "item.advanced_crystals.crystal_shard": "Crystal Shard",
-  "item.advanced_crystals.pure_crystal_shard": "Pure Crystal Shard",
+  "item.advanced_crystals.pure_crystal": "Pure Crystal",
+
+  "item.advanced_crystals.nether_crystal_powder": "Nether Crystal Powder",
+  "item.advanced_crystals.nether_crystal_shard": "Nether Crystal Shard",
+  "item.advanced_crystals.pure_nether_crystal": "Pure Nether Crystal",
+
+  "item.advanced_crystals.ender_crystal_powder": "Ender Crystal Powder",
+  "item.advanced_crystals.ender_crystal_shard": "Ender Crystal Shard",
+  "item.advanced_crystals.pure_ender_crystal": "Pure Ender Crystal",
+
+  "item.advanced_crystals.slime_crystal_powder": "Slime Crystal Powder",
+  "item.advanced_crystals.slime_crystal_shard": "Slime Crystal Shard",
+  "item.advanced_crystals.pure_slime_crystal": "Pure Slime Crystal",
 
   "block.advanced_crystals.crystal_block": "Crystal Block",
-  "block.advanced_crystals.pure_crystal_block": "Pure Crystal Block"
+  "block.advanced_crystals.pure_crystal_block": "Pure Crystal Block",
+  "block.advanced_crystals.crystal_ore": "Crystal Ore",
+
+  "block.advanced_crystals.nether_crystal_block": "Nether Crystal Block",
+  "block.advanced_crystals.pure_nether_crystal_block": "Pure Nether Crystal Block",
+
+  "block.advanced_crystals.ender_crystal_block": "Ender Crystal Block",
+  "block.advanced_crystals.pure_ender_crystal_block": "Pure Ender Crystal Block",
+
+  "block.advanced_crystals.slime_crystal_block": "Slime Crystal Block",
+  "block.advanced_crystals.pure_slime_crystal_block": "Pure Slime Crystal Block",
+
+
+  "item.advanced_crystals.crystal_scanner_mk1": "Crystal Scanner Mk 1",
+  "item.advanced_crystals.crystal_scanner_mk2": "Crystal Scanner Mk 2",
+  "item.advanced_crystals.crystal_scanner_mk3": "Crystal Scanner Mk 3",
+  "item.advanced_crystals.crystal_scanner_mk4": "Crystal Scanner Mk 4",
+  "item.advanced_crystals.crystal_scanner_mk5": "Crystal Scanner Mk 5",
+
+
+  "item.advanced_crystals.crystal_scanner_mk1.no_crystal": "You Crystal Scanner MK 1 didn't find any Crystal Ore.",
+  "item.advanced_crystals.crystal_scanner_mk2.no_crystal": "You Crystal Scanner MK 2 didn't find any Crystal Ore.",
+  "item.advanced_crystals.crystal_scanner_mk3.no_crystal": "You Crystal Scanner MK 3 didn't find any Crystal Ore.",
+  "item.advanced_crystals.crystal_scanner_mk4.no_crystal": "You Crystal Scanner MK 4 didn't find any Crystal Ore.",
+  "item.advanced_crystals.crystal_scanner_mk5.no_crystal": "You Crystal Scanner MK 5 didn't find any Crystal Ore.",
+
+
+  "itemGroup.crystals_tab": "Advanced Crystals"
+
 }
