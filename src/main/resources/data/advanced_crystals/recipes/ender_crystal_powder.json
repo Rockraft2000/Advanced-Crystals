@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "#*#",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "advanced_crystals:nether_crystal_powder"
+    },
+    "*": {
+      "item": "minecraft:shulker_shell"
+    }
+  },
+  "result": {
+    "item": "advanced_crystals:ender_crystal_shard"
+  }
+}
